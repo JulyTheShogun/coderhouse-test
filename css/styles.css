@@ -1,0 +1,12 @@
+.tales {
+    width: max-content;
+    max-height: 400px;
+  }
+
+.carousel-inner{
+    display: block;
+    height: max-content;
+    max-width: 100%;
+    line-height: 1;
+    width: 100%;
+}
